@@ -1,7 +1,3 @@
-# Creating a README.md file with the provided information
-
-readme_content = """
-
 # Monitoring Scripts
 
 A collection of Python scripts for monitoring system resources and Docker container status. These scripts send alerts to a Telegram chat when thresholds are exceeded or when issues are detected.
@@ -87,10 +83,3 @@ Feel free to contribute by creating a pull request or opening an issue for sugge
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 """
-
-# Writing the content to a README.md file
-
-with open("README.md", "w") as file:
-file.write(readme_content)
-
-"README.md file has been created successfully."
