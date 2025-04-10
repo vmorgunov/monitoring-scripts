@@ -1,7 +1,7 @@
 
 import requests
 import socket
-#finale test
+gafinale test
 
 # Telegram settings
 TELEGRAM_TOKEN = ""
