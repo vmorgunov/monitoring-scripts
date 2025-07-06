@@ -1,0 +1,4 @@
+{
+  "accounts": ["accountname1", "accountname2"],
+  "repos": ["reponame"]
+}
